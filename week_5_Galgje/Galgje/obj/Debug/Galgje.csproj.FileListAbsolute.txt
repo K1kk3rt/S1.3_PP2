@@ -1,0 +1,12 @@
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\Galgje\obj\Debug\Galgje.csprojResolveAssemblyReference.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\Galgje\obj\Debug\Galgje.csproj.CoreCompileInputs.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\Galgje\bin\Debug\Galgje.exe.config
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\Galgje\bin\Debug\Galgje.exe
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\Galgje\bin\Debug\Galgje.pdb
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\Galgje\bin\Debug\GalgjeDAL.dll
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\Galgje\bin\Debug\GalgjeLogica.dll
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\Galgje\bin\Debug\GalgjeDAL.pdb
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\Galgje\bin\Debug\GalgjeLogica.pdb
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\Galgje\obj\Debug\Galgje.csproj.CopyComplete
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\Galgje\obj\Debug\Galgje.exe
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\Galgje\obj\Debug\Galgje.pdb

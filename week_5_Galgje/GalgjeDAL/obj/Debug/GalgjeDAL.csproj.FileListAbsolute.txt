@@ -1,0 +1,6 @@
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\GalgjeDAL\obj\Debug\GalgjeDAL.csprojResolveAssemblyReference.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\GalgjeDAL\obj\Debug\GalgjeDAL.csproj.CoreCompileInputs.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\GalgjeDAL\bin\Debug\GalgjeDAL.dll
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\GalgjeDAL\bin\Debug\GalgjeDAL.pdb
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\GalgjeDAL\obj\Debug\GalgjeDAL.dll
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5_Galgje\GalgjeDAL\obj\Debug\GalgjeDAL.pdb
