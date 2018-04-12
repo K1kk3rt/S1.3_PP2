@@ -1,0 +1,11 @@
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_6\Schaakspel\bin\Debug\netcoreapp2.0\Schaakspel.deps.json
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_6\Schaakspel\bin\Debug\netcoreapp2.0\Schaakspel.runtimeconfig.json
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_6\Schaakspel\bin\Debug\netcoreapp2.0\Schaakspel.runtimeconfig.dev.json
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_6\Schaakspel\bin\Debug\netcoreapp2.0\Schaakspel.dll
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_6\Schaakspel\bin\Debug\netcoreapp2.0\Schaakspel.pdb
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_6\Schaakspel\obj\Debug\netcoreapp2.0\Schaakspel.csprojResolveAssemblyReference.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_6\Schaakspel\obj\Debug\netcoreapp2.0\Schaakspel.csproj.CoreCompileInputs.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_6\Schaakspel\obj\Debug\netcoreapp2.0\Schaakspel.AssemblyInfoInputs.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_6\Schaakspel\obj\Debug\netcoreapp2.0\Schaakspel.AssemblyInfo.cs
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_6\Schaakspel\obj\Debug\netcoreapp2.0\Schaakspel.dll
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_6\Schaakspel\obj\Debug\netcoreapp2.0\Schaakspel.pdb
