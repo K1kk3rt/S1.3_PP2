@@ -1,0 +1,10 @@
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave 3\bin\Debug\netcoreapp2.0\Opgave 3.deps.json
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave 3\bin\Debug\netcoreapp2.0\Opgave 3.runtimeconfig.json
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave 3\bin\Debug\netcoreapp2.0\Opgave 3.runtimeconfig.dev.json
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave 3\bin\Debug\netcoreapp2.0\Opgave 3.dll
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave 3\bin\Debug\netcoreapp2.0\Opgave 3.pdb
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave 3\obj\Debug\netcoreapp2.0\Opgave 3.csproj.CoreCompileInputs.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave 3\obj\Debug\netcoreapp2.0\Opgave 3.AssemblyInfoInputs.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave 3\obj\Debug\netcoreapp2.0\Opgave 3.AssemblyInfo.cs
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave 3\obj\Debug\netcoreapp2.0\Opgave 3.dll
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave 3\obj\Debug\netcoreapp2.0\Opgave 3.pdb

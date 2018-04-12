@@ -1,0 +1,11 @@
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave1\bin\Debug\netcoreapp2.0\Opgave1.deps.json
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave1\bin\Debug\netcoreapp2.0\Opgave1.runtimeconfig.json
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave1\bin\Debug\netcoreapp2.0\Opgave1.runtimeconfig.dev.json
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave1\bin\Debug\netcoreapp2.0\Opgave1.dll
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave1\bin\Debug\netcoreapp2.0\Opgave1.pdb
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave1\obj\Debug\netcoreapp2.0\Opgave1.csprojResolveAssemblyReference.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave1\obj\Debug\netcoreapp2.0\Opgave1.csproj.CoreCompileInputs.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave1\obj\Debug\netcoreapp2.0\Opgave1.AssemblyInfoInputs.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave1\obj\Debug\netcoreapp2.0\Opgave1.AssemblyInfo.cs
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave1\obj\Debug\netcoreapp2.0\Opgave1.dll
+D:\Eugenie\Documents\GitHub\S1.3_PP2\PraktijkProgrammeren2-Tentamen\Opgave1\obj\Debug\netcoreapp2.0\Opgave1.pdb
