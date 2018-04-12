@@ -1,0 +1,7 @@
+D:\Eugenie\Desktop\S1.3_PP2_week4\eugenie\PP2_week4\Opdracht 2\bin\Debug\Opdracht 2.exe.config
+D:\Eugenie\Desktop\S1.3_PP2_week4\eugenie\PP2_week4\Opdracht 2\bin\Debug\Opdracht 2.exe
+D:\Eugenie\Desktop\S1.3_PP2_week4\eugenie\PP2_week4\Opdracht 2\bin\Debug\Opdracht 2.pdb
+D:\Eugenie\Desktop\S1.3_PP2_week4\eugenie\PP2_week4\Opdracht 2\obj\Debug\Opdracht 2.csprojResolveAssemblyReference.cache
+D:\Eugenie\Desktop\S1.3_PP2_week4\eugenie\PP2_week4\Opdracht 2\obj\Debug\Opdracht 2.csproj.CoreCompileInputs.cache
+D:\Eugenie\Desktop\S1.3_PP2_week4\eugenie\PP2_week4\Opdracht 2\obj\Debug\Opdracht 2.exe
+D:\Eugenie\Desktop\S1.3_PP2_week4\eugenie\PP2_week4\Opdracht 2\obj\Debug\Opdracht 2.pdb
