@@ -1,0 +1,11 @@
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5\Opdracht 3\bin\Debug\netcoreapp2.0\Opdracht 3.deps.json
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5\Opdracht 3\bin\Debug\netcoreapp2.0\Opdracht 3.runtimeconfig.json
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5\Opdracht 3\bin\Debug\netcoreapp2.0\Opdracht 3.runtimeconfig.dev.json
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5\Opdracht 3\bin\Debug\netcoreapp2.0\Opdracht 3.dll
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5\Opdracht 3\bin\Debug\netcoreapp2.0\Opdracht 3.pdb
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5\Opdracht 3\obj\Debug\netcoreapp2.0\Opdracht 3.csproj.CoreCompileInputs.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5\Opdracht 3\obj\Debug\netcoreapp2.0\Opdracht 3.AssemblyInfoInputs.cache
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5\Opdracht 3\obj\Debug\netcoreapp2.0\Opdracht 3.AssemblyInfo.cs
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5\Opdracht 3\obj\Debug\netcoreapp2.0\Opdracht 3.dll
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5\Opdracht 3\obj\Debug\netcoreapp2.0\Opdracht 3.pdb
+D:\Eugenie\Documents\GitHub\S1.3_PP2\week_5\Opdracht 3\obj\Debug\netcoreapp2.0\Opdracht 3.csprojResolveAssemblyReference.cache
